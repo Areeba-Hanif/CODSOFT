@@ -1,9 +1,0 @@
-python,tyu:567
-java,oop:675
-php,james:3344
-mybook,ert:5566
-javascript,william:778899
-JS,sample:12345
-HTML,w3:4567
-CSS,w3:2345
-sql,rty:45633
